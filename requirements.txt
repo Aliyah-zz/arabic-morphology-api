@@ -1,13 +1,5 @@
-# Build tools (Must be first)
-cmake
-cython
-wheel
-setuptools>=42
-
-# The App
 flask
 flask-cors
 gunicorn
-
-# The Heavy NLP Library
-camel-tools
+Tashaphyne
+deep-translator
